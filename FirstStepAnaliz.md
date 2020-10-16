@@ -19,9 +19,11 @@ Frontend часть проекта будет написана с использ
 * Vue.js
 * Materializecss
 * NPM
+
 Backend часть проекта будет написана с использованием:
 * Spring Boot
 * PostgreSQL
+
 Контроль версии
 * GitHub
 
